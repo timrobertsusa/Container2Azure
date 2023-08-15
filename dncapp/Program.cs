@@ -1,5 +1,5 @@
 var builder = WebApplication.CreateBuilder(args);
-
+// tim todo config
 // Add services to the container.
 builder.Services.AddRazorPages();
 
